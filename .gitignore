@@ -1,0 +1,5 @@
+.env
+logs/
+local_cache/
+flagged/
+__pycache__/
